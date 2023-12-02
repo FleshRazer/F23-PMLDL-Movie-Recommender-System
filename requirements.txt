@@ -1,0 +1,7 @@
+geopy
+lightfm
+matplotlib
+pandas
+rectools
+rectools[lightfm]
+seaborn
