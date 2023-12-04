@@ -14,7 +14,7 @@ To unzip the repository, create Python virtual environment and install the depen
 source setup.bash
 ```
 
-### Repo Structure
+### Repository Structure
 
 ```
 F23-PMLDL-Movie-Recommender-System
